@@ -70,4 +70,5 @@ Since this is just the first version for solving the environment, several action
    * Dueling DQN.
    * Categorical DQN.
    * Rainbow (or combining everything).
-3. Solve the environment taking the images instead of the memory array from the environment so one can compare what is the best approach and the different difficulties that arise with every approach.
+3. Look for other Policy Gradient Algorithms to solve the environment and see performance against DQNs.
+4. Solve the environment taking the images instead of the memory array from the environment so one can compare what is the best approach and the different difficulties that arise with every approach.

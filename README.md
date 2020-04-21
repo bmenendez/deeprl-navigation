@@ -30,7 +30,7 @@ The task is episodic, and in order to solve the environment, the  agent must get
 
 3. Place the file in the root of the folder and unzip it.
 
-4. Run 
+4. Run it! Consider to change the cell at point 2 of the notebook to match with your folder `env = UnityEnvironment(file_name='Banana_Linux/Banana.x86_64')`.
 
 ## Instructions
 
